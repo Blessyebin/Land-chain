@@ -200,5 +200,11 @@ return Functions.encodeString(`ipfs://${ipfsHash}`);
 * Add document previewing on OpenSea using `animation_url`
 
 ---
+## Demo video
+https://youtu.be/XhfXIEPqUm0?si=BqKJ9DE1WRQ7guYu
 
-Let me know if you want this split into separate `README.md` files for backend and smart contracts.
+### Link of minted Land Plot
+https://testnets.opensea.io/assets/avalanche_fuji/0x472ea921cfffbe659cd8222641edcee7c76167c8/2/
+
+
+
