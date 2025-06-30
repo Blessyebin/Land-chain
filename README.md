@@ -158,7 +158,7 @@ function fulfillRequest(bytes32 requestId, bytes memory response, bytes memory e
 Example source in `FunctionsSource.sol`:
 
 ```js
-const image = args[0];
+const ipfsCid = args[0];
 const apiResponse = await Functions.makeHttpRequest({ url: "https://..." });
 const metadata = apiResponse.data;
 metadata.image = image;
